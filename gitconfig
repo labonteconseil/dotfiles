@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = labonteconseil@gmail.com
+	name = tom gauthier
